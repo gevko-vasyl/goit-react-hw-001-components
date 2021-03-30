@@ -1,0 +1,19 @@
+.statistics {
+  margin-top: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(206, 189, 189);
+  text-align: center;
+}
+
+.statList {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  width: 100px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+}
